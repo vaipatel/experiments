@@ -3,11 +3,13 @@ Collection of experiments in ML/AR/VR/blah. p(success) is probably low.
 
 # List of experiments
 * [Mixture Density Networks](#mixture-density-networks)
- * [2-link Inverse Kinematics](#2-link-inverse-kinematics)
+  * [2-link Inverse Kinematics](#2-link-inverse-kinematics) (:x:)
 
 # Mixture Density Networks
 
 ## 2 link Inverse Kinematics (:x:)
+
+[Project link](https://github.com/vaipatel/experiments/tree/master/mixture_density_networks/bishop_inverse_kinematics)
 
 An attempt to reproduce the 2-link Robot Arm Inverse Kinematics estimation from
 the [1994 Mixture Density Network paper by Bishop](https://bit.ly/2VAtYM3).
